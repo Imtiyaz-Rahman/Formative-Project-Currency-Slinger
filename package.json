@@ -1,11 +1,11 @@
 {
-  "homepage": "https://Imtiyaz-Rahman.github.io/Formative-Project-Currency-Slinger",
+  "homepage": "https://Imtiyaz-Rahman.github.io/Formative-Project-Currency-Slinger/",
   "name": "formative-currency-slinger",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run public",
+    "deploy": "gh-pages -d public",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

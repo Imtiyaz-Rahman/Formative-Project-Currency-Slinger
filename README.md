@@ -6,6 +6,7 @@ Requirements in order to make this service function will be the ability to gain 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
 ## Getting Started
 
 go into the directory
@@ -33,11 +34,13 @@ Got to the home page and click on [http://localhost:3000/converter](Currency Con
 
 Simply input a number into the input box and click the process button to get your converted value
 
+
 ## Conversion System
 
 The conversion system will take £GBP and convert the value into $Dollars
 
 As of 12 December 2024 the conversion rate from £GBP TO $Dollars is 1.27
+
 
 ## Navigation
 
@@ -51,3 +54,7 @@ and
 
 They connect to each other with their respective buttons
 
+
+## Question Testing
+
+Results and information have been talked about here [https://github.com/Imtiyaz-Rahman/Formative-Project-Currency-Slinger/blob/main/test/QuestionSheet.md](Question Results)
