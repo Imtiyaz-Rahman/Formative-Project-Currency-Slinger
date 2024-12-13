@@ -38,7 +38,7 @@ export default function main() {
                     <h1 className="transition delay-100 duration-300 ease-in-out hover:translate-x-3 hover:text-indigo-300 p-1"><a target="_blank" href="https://youtu.be/JjjNa8khhww?si=bK93IANIrxU5aO29?&autoplay=1&mute=1">Something Funny</a></h1>
                 </div>
                     </div>
-                        <div className="flex items-center justify-center h-screen container">
+                        <div className="flex items-center justify-center w-full h-96">
                             <div className="bg-indigo-500 p-6 rounded-lg w-full max-w-md">
                                 <div className="bg-gray-600">
                                     <div className="flex justify-center bg-gray-600 p-3 text-black">
