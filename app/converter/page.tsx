@@ -14,15 +14,15 @@ export default function main() {
   
     const handleButtonClick = () => {
         const numberValue = parseInt(inputValue);
+        // Setting the value to Int
         if (!isNaN(numberValue)) {
-          const convertedValue = ("$" + numberValue * 1.268);
-          setOutputValue(convertedValue.toString());
+            // Check for Int values and create conversion
+            const convertedValue = ("$" + numberValue * 1.268);
+            setOutputValue(convertedValue.toString());
         } else {
-            // Handle non-integer input, e.g., display an error message or set a default value
+            // Error Check for non int values
             setOutputValue('Invalid input');
           }
-      // Implement your desired logic for processing the input value here
-    //   setOutputValue(inputValue.toUpperCase()); // Example: Convert input to uppercase
     };
     return (
     <div className="font-[family-name:var(--font-geist-mono)]">
