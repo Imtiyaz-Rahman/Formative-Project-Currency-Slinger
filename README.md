@@ -57,4 +57,4 @@ They connect to each other with their respective buttons
 
 ## Question Testing
 
-Results and information have been talked about here [https://github.com/Imtiyaz-Rahman/Formative-Project-Currency-Slinger/blob/main/test/QuestionSheet.md](Question Results)
+Results and information have been talked about here [Question Results](https://github.com/Imtiyaz-Rahman/Formative-Project-Currency-Slinger/blob/main/test/QuestionSheet.md)
