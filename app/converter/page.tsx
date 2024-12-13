@@ -32,7 +32,7 @@ export default function main() {
                     <h1 className="transition delay-100 duration-300 ease-in-out hover:translate-x-3 hover:text-indigo-300 font-bold p-1"><a href="http://localhost:3000">Home Page</a></h1>
                 </div>
                 <div> 
-                    <h1 className="transition delay-100 duration-300 ease-in-out hover:translate-x-3 hover:text-indigo-300 p-1"><a href="https://github.com/Imtiyaz-Rahman/Formative-Project-Currency-Slinger">Git Hub Page</a></h1>
+                    <h1 className="transition delay-100 duration-300 ease-in-out hover:translate-x-3 hover:text-indigo-300 p-1"><a target="_blank" href="https://github.com/Imtiyaz-Rahman/Formative-Project-Currency-Slinger">Git Hub Page</a></h1>
                 </div>
                 <div>
                     <h1 className="transition delay-100 duration-300 ease-in-out hover:translate-x-3 hover:text-indigo-300 p-1"><a target="_blank" href="https://youtu.be/JjjNa8khhww?si=bK93IANIrxU5aO29?&autoplay=1&mute=1">Something Funny</a></h1>
