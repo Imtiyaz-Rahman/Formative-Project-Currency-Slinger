@@ -22,10 +22,10 @@ Navigated to the converter page
 ## Question 3
 
 **Input**
-> Space Patrol Delta
+> 4.20
 
 **Output**
-> Invalid input
+> $5.072
 
 ![Image of results showing input of "4.20" causing an error "$5.072"](Question3.png)
 
